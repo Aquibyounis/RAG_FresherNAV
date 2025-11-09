@@ -1,0 +1,278 @@
+[
+  {
+    "id": "vitap.academics.course_registration.v1",
+    "title": "Course Registration Process",
+    "category": "Academics",
+    "type": "procedure",
+    "text": "1. Find the link for Course Registration which was sent to your registered college emailID.\n2. Log in using your VTOP credentials at the time of registration.\n3. Select the courses and the faculty you wish to register for the semester.\n4. Confirm your selection and submit.\n5. Check for any prerequisites or corequisites before finalizing your registration.\n6. Make sure to complete the registration within the specified deadline.\n7. There will be an add/drop period after the first week of classes to make changes to your course selection.\n8. Change the slot or faculty for a registered course, subject to availability, during the add/drop period.",
+    "tags": ["course", "registration", "vtop", "academics", "add/drop"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.credits_gpa.v1",
+    "title": "Credits and GPA Calculation",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Each subject carries credits as per curriculum.\n2. GPA is calculated as the sum of (credits × grade points) divided by total registered credits.\n3. CGPA is the cumulative GPA across all semesters.\n4. Minimum GPA/CGPA requirements vary by program as per academic regulations.\n5. VIT follows relative grading system; grade points are assigned based on class performance.\n6. Check your GPA/CGPA regularly on VTOP under the 'Academic' section.\n7. Maintain a good academic standing by meeting the minimum credit requirements each semester.",
+    "tags": ["gpa", "cgpa", "credits", "academics", "relative grading"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.revaluation.v1",
+    "title": "Revaluation of Exam Papers",
+    "category": "Academics",
+    "type": "procedure",
+    "text": "1. After results are published, revaluation requests can be submitted through VTOP.\n2. Pay the prescribed revaluation fee online.\n3. Select the subject(s) for revaluation and submit.\n4. Results will be updated on VTOP once evaluation is complete.",
+    "tags": ["revaluation", "exams", "results", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.supplementary_exams.v1",
+    "title": "Supplementary or Arrear Exams",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Students with arrears must register for supplementary exams via VTOP.\n2. Check the registration dates announced in the academic calendar.\n3. Pay the exam fee and download the hall ticket.\n4. Results will be published under the 'Examination' section in VTOP.",
+    "tags": ["arrears", "exams", "supplementary", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.attendance_policy.v1",
+    "title": "Attendance Requirements",
+    "category": "Academics",
+    "type": "policy",
+    "text": "1. A minimum of 80% attendance is required in each course to be eligible for CAT/FAT exams.\n2. Students with attendance between 65%–75% may apply for attendance relaxation with valid reasons.\n3. Below 65% attendance → ineligible to write the CAT/FAT exams.\n4. Attendance details are regularly updated in VTOP.",
+    "tags": ["attendance", "policy", "academics", "eligibility"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.calendar.v1",
+    "title": "Academic Calendar and Important Dates",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. The academic calendar is available on the official VIT website and VTOP portal.\n2. It includes important dates such as semester start/end, exam periods, holidays, and registration deadlines.\n3. Regularly check the calendar to stay updated on academic schedules.\n4. Plan your studies and activities around these dates to avoid conflicts.",
+    "tags": ["academic calendar", "important dates", "academics", "schedule"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.internship_guidelines.v1",
+    "title": "Internship and Project Guidelines",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Internships are mandatory for certain programs; check your curriculum for details.\n2. Register for internships through VTOP and get approval from your department.\n3. Submit a report and presentation at the end of your internship/project as per guidelines.",
+    "tags": ["internship", "project", "guidelines", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.exam_rules.v1",
+    "title": "Examination Rules and Conduct",
+    "category": "Academics",
+    "type": "policy",
+    "text": "1. Follow all examination rules as outlined in the student handbook.\n2. Carry your ID card and necessary things to the examination hall.\n3. Electronic devices are strictly prohibited in the exam hall.\n4. Any form of malpractice will lead to strict disciplinary action.",
+    "tags": ["examination", "rules", "conduct", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.library_access.v1",
+    "title": "Library Resources and Access",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. The library offers a wide range of resources including books, journals, and digital materials.\n2. Access to library resources is available through your student ID.\n3. Use the online catalog to search for books and other materials.\n4. Follow library rules regarding borrowing and returning items on time.",
+    "tags": ["library", "resources", "access", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.transcripts.v1",
+    "title": "Transcript and Certification Requests",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Requests for transcripts and certificates must be made through the VTOP portal.\n2. Provide all necessary details and the purpose of the request.\n3. There may be a processing fee for transcript requests.\n4. Check the VTOP portal for estimated processing times.",
+    "tags": ["transcript", "certification", "requests", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.course_withdrawal.v1",
+    "title": "Course Withdrawal and Drop Policies",
+    "category": "Academics",
+    "type": "policy",
+    "text": "1. Students may withdraw from a course without penalty after the CAT-1 examinations.\n2. Students receive an email notification regarding the withdrawal process.\n3. Dropping a course is allowed as per university rules and may affect credit load but not your CGPA if withdrawn before deadline.",
+    "tags": ["course withdrawal", "drop policies", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.credit_distribution.v1",
+    "title": "Credit distribution and Electives",
+    "category": "Academics",
+    "type": "policy",
+    "text": "1. Understand the credit distribution for your program and plan your courses accordingly.\n2. Elective courses can be chosen based on your interests and career goals.\n3. Categories include University Core, Program Core, University Elective, and Program Elective.\n4. Ensure you meet credit requirements for graduation.\n5. Core courses are mandatory; electives offer flexibility.",
+    "tags": ["credit distribution", "electives", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.cgpa_relaxation.v1",
+    "title": "CGPA for Attendance Relaxation",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Maintain a CGPA of 9.0 or above to be eligible for attendance relaxation.\n2. Attendance requirements do not apply for CGPA above 9.0.\n3. Maintain CGPA 9.0+ to continue availing this benefit.",
+    "tags": ["CGPA", "attendance relaxation", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.vtop_usage.v1",
+    "title": "VTOP Academic Portal Usage",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. VTOP is the main platform for course registration, results and attendance.\n2. Check VTOP regularly for updates and notifications.\n3. Use VTOP to access study materials, submit assignments and communicate with faculty.",
+    "tags": ["VTOP", "academic portal", "usage", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.wifi_usage.v1",
+    "title": "College Wifi Access and Usage",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. The college provides wifi access to all students and staff.\n2. Connect using your student-unique WiFi credentials.\n3. Internet usage must be primarily for academic purposes.",
+    "tags": ["wifi", "access", "usage", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.idcard_loss.v1",
+    "title": "Missing or Lost ID Card Procedure",
+    "category": "Academics",
+    "type": "procedure",
+    "text": "1. Report the missing ID card to campus security.\n2. Provide name, registration number and mobile number.\n3. Pay Rs.500 for reissue.\n4. Collect ID card from Student Record Section at AB1 321.\n5. Carry your ID card at all times on campus.",
+    "tags": ["ID card", "missing", "procedure", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.sports_facilities.v1",
+    "title": "Sports Facilities",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. The college provides gym, sports fields and indoor courts.\n2. Gym and indoor sports are available at SAC.\n3. Proper sports attire is required.",
+    "tags": ["sports facilities", "info", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.health_services.v1",
+    "title": "Health Services and Medical Facilities",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Medical and health services available at AB1 ground floor.\n2. Includes consultations, check-ups and emergency support.\n3. Services are confidential and free for students.\n4. Open 9 AM to 5 PM on working days.\n5. Ambulance service available for emergencies.",
+    "tags": ["health services", "medical facilities", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.academics.fresher_documents.v1",
+    "title": "Certificates and Document submission for freshers",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. Freshers must submit certificates and documents for verification.\n2. Submit at the Student Record Section.\n3. Ensure documents are attested and in required format.",
+    "tags": ["certificates", "document submission", "freshers", "academics"],
+    "source": "academics_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.academics.registration_link_info.v1",
+    "title": "Course Registration Link Information",
+    "category": "Academics",
+    "type": "info",
+    "text": "1. VIT-AP does not use a fixed or permanent course registration link.\n2. A unique registration link is generated by the university for every semester.\n3. This link is sent only to the student's official college email ID.\n4. Students must check their inbox and spam folders during the registration period to locate the correct link.\n5. The link changes every semester and cannot be accessed beforehand through VTOP.",
+    "tags": ["course registration", "email", "dynamic link", "academics"],
+    "source": "academics_added",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+  "id": "vitap.academics.ffcs_info.v1",
+  "title": "FFCS System Information",
+  "category": "Academics",
+  "type": "info",
+  "text": "1. VIT-AP does not follow a uniform FFCS system across all branches.\n2. Certain schools like CSBS do not follow FFCS, while CSE and other engineering branches may follow FFCS depending on academic planning.\n3. FFCS availability and structure may vary based on the school, curriculum, and semester.\n4. Students will receive mail notifications from the university regarding whether FFCS applies to their program for that semester.",
+  "tags": ["FFCS", "academics", "course selection", "branches"],
+  "source": "academics_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+},
+{
+  "id": "vitap.academics.max_credits_policy.v1",
+  "title": "Maximum Credits Policy",
+  "category": "Academics",
+  "type": "info",
+  "text": "1. Maximum credits allowed per semester may vary based on the student’s school, program, and semester structure.\n2. There is no fixed universal credit limit for all students.\n3. Credit limits are communicated through official email before course registration.\n4. Students must check their registered college email for updated guidelines each semester.",
+  "tags": ["credits", "max credits", "academics", "policy"],
+  "source": "academics_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+},
+{
+  "id": "vitap.academics.makeup_refat_info.v1",
+  "title": "ReFAT and Arrear Exam Clarification",
+  "category": "Academics",
+  "type": "info",
+  "text": "1. Information regarding ReFAT or makeup exam policies is not publicly fixed and may vary by semester.\n2. Students should contact their mentor or department for accurate clarification on whether ReFAT is available, eligibility rules, and deadlines.\n3. Official exam-related updates will be communicated through the student’s registered email.",
+  "tags": ["ReFAT", "arrear", "makeup exam", "academics", "policy"],
+  "source": "academics_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+},
+{
+  "id": "vitap.academics.exam_items_information.v1",
+  "title": "Exam Hall Allowed and Not-Allowed Items",
+  "category": "Academics",
+  "type": "info",
+  "text": "1. The list of allowed and not-allowed items for CAT and FAT examinations is not fixed and varies each semester.\n2. The official instructions for examination materials, permitted items, restricted items, and hall-entry rules are sent directly to students through their official college email.\n3. Students must carefully read the exam instructions email before every CAT/FAT, as guidelines may change based on course, department, or exam type (open-book, closed-book, etc.).\n4. Any item not mentioned in the official exam email should be considered not allowed by default.\n5. For clarification, students may contact their course faculty or the exam coordinator.",
+  "tags": ["exam rules", "allowed items", "not allowed items", "academics", "email instructions"],
+  "source": "academics_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+
+
+]

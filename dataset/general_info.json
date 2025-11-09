@@ -1,0 +1,179 @@
+[
+  {
+    "id": "vitap.general.campus_overview.v1",
+    "title": "Campus Overview and Map",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. VIT-AP University campus includes Academic Blocks (AB1, AB2, Central Block), hostels, library, SAC (Student Activity Center), and sports facilities.\n2. A digital campus map is available on the VIT-AP website and VTOP for navigation.\n3. Sign boards are placed across campus to guide students and visitors.",
+    "tags": ["campus", "map", "overview", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.reaching_campus.v1",
+    "title": "Reaching VIT-AP University",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. VIT-AP is located in Amaravati, Andhra Pradesh, India.\n2. Nearest railway stations: Vijayawada (30 km), Guntur (20 km).\n3. Nearest airport: Gannavaram Airport (35 km).\n4. Local transport includes buses, taxis, and auto-rickshaws.\n5. Buses from Vijayawada (Platform 42 and 43) and Guntur go to the AP Secretariat (Sachivalayam). From there, local transport is available to campus.\n6. A direct bus operates daily from Vijayawada to campus at 7:30 AM and 4:00 PM, and from campus to Vijayawada at 9:00 AM and 5:30 PM.\n7. Students should plan travel in advance and use registered transport services.",
+    "tags": ["location", "travel", "transport", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.security.v1",
+    "title": "Campus Security and Safety",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. The campus is secured with 24/7 security personnel and CCTV surveillance.\n2. Students must carry their ID cards at all times for identification.\n3. In case of emergencies, contact campus security or use emergency numbers displayed across campus.\n4. Follow all safety protocols and report suspicious activities immediately.",
+    "tags": ["security", "safety", "policy", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.classrooms_labs.v1",
+    "title": "Finding Classrooms and Labs",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Classrooms and labs are located in various academic blocks.\n2. Classroom numbers are included in the timetable provided in VTOP.\n3. Timings and schedules are also available in VTOP.\n4. Students may ask campus staff or security for directions if needed.",
+    "tags": ["classrooms", "labs", "facilities", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.transport_services.v1",
+    "title": "Transport Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. VIT-AP provides bus services connecting Vijayawada, Guntur, and nearby towns.\n2. Students must register for transport at the start of the semester.\n3. Bus routes and timings are shared via email.\n4. ID card is mandatory to use the campus bus service.",
+    "tags": ["transport", "bus", "services", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.cafeterias.v1",
+    "title": "Cafeterias and Dining Options",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Apart from hostel mess facilities, students can access multiple cafeterias and food courts.\n2. Food Street (behind CB), Rock Plaza (beside SAC), and Maggi Hotspot operate during working hours.\n3. Both vegetarian and non-vegetarian options are available.",
+    "tags": ["cafeteria", "food", "dining", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.idcard_usage.v1",
+    "title": "ID Card Usage",
+    "category": "General Info",
+    "type": "policy",
+    "text": "1. The student ID card is mandatory for campus entry, hostels, library, and exams.\n2. Students must carry their ID card at all times.\n3. Lost ID cards must be reported immediately and replaced through the Student Record Section.",
+    "tags": ["id card", "policy", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.emergency_health.v1",
+    "title": "Emergency and Health Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. A 24/7 ambulance service is available on campus.\n2. The Health Center provides first aid and consultations during working hours.\n3. Emergency contact numbers are displayed in academic blocks and hostels.",
+    "tags": ["emergency", "health", "services", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.lost_found.v1",
+    "title": "Lost and Found Procedure",
+    "category": "General Info",
+    "type": "procedure",
+    "text": "1. Lost items should be deposited at the Security Office in Central Block.\n2. Students may check for lost belongings by providing item details.\n3. Unclaimed items are logged and kept at the Student Record Section.",
+    "tags": ["lost and found", "procedure", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.banking_postal.v1",
+    "title": "Banking & Postal Services",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. The campus has an Indian Bank branch and ATMs.\n2. Postal services are available for sending and receiving mail.\n3. Students may use these services during working hours.",
+    "tags": ["banking", "postal services", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.wifi_access.v1",
+    "title": "Wi-Fi & Internet Access",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. Wi-Fi is available across campus.\n2. There are two networks: one for campus, one for hostels.\n3. Students must use institutional email IDs to log in.\n4. For connectivity issues, students may contact CTS at CB 421.",
+    "tags": ["wifi", "internet", "access", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.website.v1",
+    "title": "VIT-AP University Website",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. The official website (https://vitap.ac.in) provides information on academics, admissions, departments, research, and campus life.\n2. Students should check the website regularly for announcements.",
+    "tags": ["website", "info", "general"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.general.guesthouse.v1",
+    "title": "University Guest House",
+    "category": "General Info",
+    "type": "info",
+    "text": "VIT-AP University maintains a Guest House for visiting faculty, guests, and visitors. Reservations can be made through the official guesthouse portal. The guest house is located on campus and provides lodging for official visitors.",
+    "tags": ["guest house", "visitors", "accommodation", "facilities"],
+    "source": "general_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+  "id": "vitap.general.visitor_entry_rules.v1",
+  "title": "Visitor and Parent Entry Rules",
+  "category": "General Info",
+  "type": "policy",
+  "text": "1. Visitor entry, including parents, is allowed only until 6:00 PM.\n2. No visitor or parent is permitted inside the hostels under normal circumstances.\n3. Exceptions may be made only for special or emergency situations, subject to warden and security approval.\n4. All visitors must record the student's registration number and their own details in the visitor directory book at the campus entrance.\n5. Security personnel will check the visitor's baggage before allowing entry.\n6. Visitors must follow all campus security instructions during their visit.",
+  "tags": ["visitors", "parents", "entry rules", "security", "general info"],
+  "source": "general_info_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+},
+{
+  "id": "vitap.general.transport_day_scholar_rules.v1",
+  "title": "Day Scholar Bus Usage Rules",
+  "category": "General Info",
+  "type": "policy",
+  "text": "1. Day scholars must carry their student ID card while entering or exiting the campus.\n2. Day scholar ID tags are dark blue and are different from hostel student tags.\n3. Pickup and drop timings for day scholar buses are communicated through official college email.\n4. Students can also visit the Transport Office located on the ground floor of the Central Block (CB) for updated timings or route information.\n5. Only registered day scholars are allowed to use the campus bus service during evenings.\n6. ID card verification is mandatory before boarding the bus and at the campus gate.",
+  "tags": ["transport", "day scholars", "bus rules", "id card", "general info"],
+  "source": "general_info_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+},
+{
+  "id": "vitap.general.transport_day_scholar_rules.v1",
+  "title": "ID tags of students",
+  "category": "General Info",
+  "type": "policy",
+  "text": "1.Day scholars should have dark blue tag with red background at bottom of front facing.\n2. Hostelers should have sky blue color tag with green background at bottom of front facing.\n3. PHD scholars should have red blue color tag.\n4.Newly recruited faculty should have yellow tags.\n5.common faculty should have grey tags.",
+  "tags": ["Hostelers", "day scholars", "Id tags", "id card", "general info","faculty","ID"],
+  "source": "general_info_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+
+]

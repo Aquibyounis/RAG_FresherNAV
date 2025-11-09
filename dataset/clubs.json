@@ -1,0 +1,101 @@
+[
+  {
+    "id": "vitap.clubs.overview.v1",
+    "title": "Overview of Student Clubs at VIT-AP",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. VIT-AP has various student clubs in technical, cultural, arts, music, dance, literature, and sports domains.\n2. Clubs help students explore interests outside academics and improve leadership, teamwork, and organizational skills.\n3. Participation in at least one club is mandatory for all students (via course registration).\n4. Club activities are announced through email, VTOP, and notice boards.",
+    "tags": ["clubs", "overview", "student", "activities"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.registration.v1",
+    "title": "Club Registration Process",
+    "category": "Clubs",
+    "type": "procedure",
+    "text": "1. Club registration opens at the beginning of each semester through the course registration process.\n2. Students can select one or more clubs based on their interests.\n3. Some clubs may conduct interviews or eligibility checks.\n4. Once registered, participation in club events and meetings is mandatory for credit requirements.",
+    "tags": ["clubs", "registration", "procedure", "semester"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.types.v1",
+    "title": "Types of Clubs at VIT-AP",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Technical Clubs: Coding, Robotics, Electronics, AI/ML, Cybersecurity.\n2. Cultural Clubs: Dance, Drama, Music, Fine Arts, Photography.\n3. Literary Clubs: Debate, Creative Writing, Public Speaking.\n4. Sports Clubs include Cricket, Football, Basketball, Badminton, and Athletics.\n5. Special Interest Clubs: Entrepreneurship, Social Service, Environmental, Media.\n6. Each club organizes regular events, workshops, and competitions.",
+    "tags": ["clubs", "types", "technical", "cultural", "sports"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.membership.v1",
+    "title": "Club Membership and Participation",
+    "category": "Clubs",
+    "type": "policy",
+    "text": "1. Membership is open to all students.\n2. Active participation in meetings, events, and workshops is encouraged and recorded.\n3. Some clubs may have mandatory attendance or project work for completion.\n4. Active members receive certificates and recognition for their contributions.",
+    "tags": ["clubs", "membership", "participation", "policy"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.leadership.v1",
+    "title": "Leadership Opportunities in Clubs",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Clubs elect or nominate student coordinators each year.\n2. Coordinators are responsible for planning events, managing finances, and coordinating with faculty advisors.\n3. Leadership roles gained in clubs are valuable for placements and career development.\n4. Students can apply for leadership roles during the annual club orientation.",
+    "tags": ["clubs", "leadership", "coordinators", "students"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.events.v1",
+    "title": "Club Events and Competitions",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Clubs organize workshops, competitions, cultural shows, and technical fests throughout the semester.\n2. Events may be intra-college or inter-college.\n3. Certificates and prizes are awarded to winners and active participants.\n4. Event details are circulated via email and displayed on notice boards.",
+    "tags": ["clubs", "events", "competitions", "workshops"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.communication.v1",
+    "title": "Club Communication Channels",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Clubs use email, WhatsApp groups, and social media to communicate with members.\n2. Important announcements about meetings and events are shared through these channels.\n3. Students are encouraged to check their emails regularly.\n4. Faculty advisors provide support and guidance.",
+    "tags": ["clubs", "communication", "email", "social media"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.benefits.v1",
+    "title": "Benefits of Joining Clubs",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Enhances communication, teamwork, and leadership skills.\n2. Provides networking opportunities with peers and professionals.\n3. Helps build a well-rounded resume for placements.\n4. Offers a platform to explore interests and hobbies.",
+    "tags": ["clubs", "benefits", "skills", "networking"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.funding.v1",
+    "title": "Club Funding and Resources",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Clubs receive funding from the university for organizing events.\n2. Additional funds can be raised through sponsorships.\n3. Clubs can use university facilities like auditoriums, labs, and sports grounds.\n4. Proper financial management is essential for sustainability.",
+    "tags": ["clubs", "funding", "resources", "events"],
+    "source": "clubs_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  }
+]

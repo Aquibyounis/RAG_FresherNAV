@@ -1,0 +1,101 @@
+[
+  {
+    "id": "vitap.startups.how_to_start.v1",
+    "title": "How to Start a Startup at VIT-AP",
+    "category": "Startups",
+    "type": "procedure",
+    "text": "1. Identify a problem and come up with an innovative solution.\n2. Prepare a short proposal with details about the idea, impact, and feasibility.\n3. Submit your proposal through the Incubation Center.\n4. Shortlisted ideas will be invited for a pitch presentation to the review committee.\n5. Selected startups will be provided incubation support, mentorship, and facilities.",
+    "tags": ["startup", "procedure", "entrepreneurship", "incubation"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.incubation_facilities.v1",
+    "title": "Incubation Facilities and Support",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. The Incubation Center is located at the 3rd Floor of Central Block (CB).\n2. Facilities include co-working spaces, internet access, meeting rooms, and lab support.\n3. Faculty mentors and industry experts guide incubated startups.\n4. Students can access seed funding and networking opportunities.\n5. Regular workshops and training programs support entrepreneurial growth.",
+    "tags": ["incubation", "facilities", "support", "mentorship"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.registration_process.v1",
+    "title": "Startup Registration and Process",
+    "category": "Startups",
+    "type": "procedure",
+    "text": "1. Visit the Incubation Center at CB 3rd Floor for guidance.\n2. Collect and fill the startup registration form.\n3. Submit the form with a short presentation or concept note.\n4. The committee evaluates the idea for feasibility and innovation.\n5. Approved ideas receive official incubation support.",
+    "tags": ["startup", "registration", "process", "incubation"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.incubation_overview.v1",
+    "title": "Incubation Center Overview",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. The Incubation Center provides support to student entrepreneurs.\n2. Facilities include co-working spaces, high-speed internet, and meeting rooms.\n3. Mentorship is provided by faculty and industry experts.\n4. Startups can apply through a formal proposal process.",
+    "tags": ["incubation", "startups", "entrepreneurship", "support"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.seed_funding.v1",
+    "title": "Seed Funding Opportunities",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. Early-stage startups can apply for seed funding through institutional schemes.\n2. Funding approval depends on feasibility and impact.\n3. Additional funding opportunities may be available through partner investors and competitions.",
+    "tags": ["funding", "startups", "seed", "finance"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.competitions.v1",
+    "title": "Startup Competitions and Hackathons",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. The university organizes startup competitions and hackathons.\n2. Winners receive mentorship, incubation support, and prize money.\n3. Events are open to students across all disciplines.\n4. Information is shared via email.",
+    "tags": ["hackathon", "startup", "competitions", "innovation"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.ipr_support.v1",
+    "title": "Intellectual Property Support",
+    "category": "Startups",
+    "type": "policy",
+    "text": "1. Startups can seek guidance for filing patents, trademarks, and copyrights.\n2. The IPR Cell helps prepare documentation and filings.\n3. Students must disclose innovations through the prescribed university process before external applications.",
+    "tags": ["ipr", "patents", "startups", "policy"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.mentorship_programs.v1",
+    "title": "Mentorship Programs",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. Startups receive mentorship from faculty and industry professionals.\n2. Sessions cover business strategy, marketing, and product development.\n3. Regular feedback helps refine ideas and execution.",
+    "tags": ["mentorship", "startups", "programs", "guidance"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.startups.alumni_success.v1",
+    "title": "Alumni Startup Success Stories",
+    "category": "Startups",
+    "type": "info",
+    "text": "1. Several alumni have launched successful startups.\n2. Their stories inspire current students.\n3. Some alumni return as mentors or investors.",
+    "tags": ["alumni", "startups", "success", "stories"],
+    "source": "startups_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  }
+]

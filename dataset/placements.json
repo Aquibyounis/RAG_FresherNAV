@@ -1,0 +1,219 @@
+[
+  {
+    "id": "vitap.placements.pat_overview.v1",
+    "title": "Placement Assistance Training (PAT) Overview",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. All placement-related activities at VIT-AP are coordinated through the Placement Assistance Training (PAT) cell.\n2. PAT provides training in aptitude, technical skills, communication, and interview preparation.\n3. The Career Development Center (CDC) works alongside PAT to bring companies and industry experts to campus.\n4. Students are required to complete PAT training modules before sitting for placements.",
+    "tags": ["placements", "PAT", "CDC", "training"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.registration_process.v1",
+    "title": "Placement Registration Process",
+    "category": "Placements",
+    "type": "procedure",
+    "text": "1. Placement registration at VIT-AP is voluntary.\n2. Register through the CDC portal when registration opens.\n3. Pay the applicable PAT registration fee.\n4. Complete mandatory PAT training sessions before company tests.\n5. Update your resume in the CDC-approved format.\n6. Attend mock interviews and training workshops as per CDC schedule.\n7. Follow company-specific instructions shared via the CDC portal and email.",
+    "tags": ["placements", "registration", "procedure", "CDC"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.pat_fees.v1",
+    "title": "PAT Registration Fees",
+    "category": "Placements",
+    "type": "info",
+    "text": "The placement registration is voluntary and the fee structure (inclusive of GST) is:\n\n- B.Tech (All branches): ₹8000\n- M.Tech (2-year & 5-year): ₹7000\n- M.Sc (2-year): ₹4000",
+    "tags": ["placements", "PAT", "fees", "registration"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.eligibility_criteria.v1",
+    "title": "Placement Registration Eligibility Criteria",
+    "category": "Placements",
+    "type": "policy",
+    "text": "Eligible Courses & Branches:\n- B.Tech (All)\n- 2-year M.Tech (All)\n- 5-year M.Tech.\n\nEligibility Criteria:\nFor B.Tech:\n- Minimum 6 CGPA and no current backlogs.\n- Completion of required STS and CSE courses as per branch.\n- Completion of minimum 11 exercises in Lit Coder.\n\nFor M.Tech (5-year):\n- Minimum 6 CGPA and no current backlogs.\n- Completion of STS3004 and registration of STS4003 for MIC and MIS.\n- Completion of minimum 11 exercises in Lit Coder.\n\nFor M.Tech (2-year) & M.Sc (2-year):\n- Minimum 6 CGPA and no current backlogs.\n- Completion of minimum 11 Lit Coder exercises.",
+    "tags": ["placements", "eligibility", "PAT", "registration", "criteria"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.communication_guidelines.v1",
+    "title": "Communication Guidelines for Placements",
+    "category": "Placements",
+    "type": "policy",
+    "text": "1. For placement queries, email patqueries.ap@vitap.ac.in.\n2. For training, certifications, internships, and Lit Coder, email training.cdc@vitap.ac.in.\n3. Do not send the same query to multiple email IDs.\n4. Do not contact CDC team members via personal emails or mobile numbers.\n5. Do not CC CDC team members.\n6. Violations result in permanent removal from placement training and CDC portal access.\n7. CDC visiting hours: Tuesday–Saturday, 11:00 AM – 12:00 PM and 4:00 PM – 5:00 PM.",
+    "tags": ["placements", "CDC", "PAT", "communication", "policy"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.offer_norms.v1",
+    "title": "Placement Norms and Multiple Offers",
+    "category": "Placements",
+    "type": "policy",
+    "text": "1. Students selected by any company become eligible for 2X CTC offers and above.\n2. Eligible for Dream (Core) offers if CTC < 10 LPA or marked as Dream Core.\n3. Super Dream Internship (CTC > 10 LPA) allows eligibility for higher offers.\n4. Dream Internship (CTC < 10 LPA) allows eligibility for 2X or above 6 LPA offers.\n5. Students must follow all PAT/CDC norms.",
+    "tags": ["placements", "norms", "eligibility", "internship", "offers"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.preparation_tips.v1",
+    "title": "Placement Preparation Tips",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Practice aptitude and logical reasoning regularly.\n2. Improve coding, data structures, and core subjects.\n3. Attend CDC workshops to build communication and interview skills.\n4. Participate in hackathons, projects, and internships.\n5. Follow professional etiquette during interviews.",
+    "tags": ["placements", "preparation", "PAT", "tips", "CDC"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.training_modules.v1",
+    "title": "Placement Training Modules",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. PAT training covers aptitude, technical skills, communication, and interview preparation.\n2. Sessions conducted by trainers and industry experts.\n3. Attendance is mandatory for placement eligibility.\n4. Extra resources available on CDC portal.",
+    "tags": ["placements", "PAT", "training", "modules"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.cdc_role.v1",
+    "title": "Career Development Center (CDC) Role",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. CDC brings companies for placements.\n2. Organizes pre-placement talks, interviews, and sessions.\n3. Provides career guidance.\n4. Manages CDC portal for updates and registration.",
+    "tags": ["placements", "CDC", "role", "career"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.statistics.v1",
+    "title": "Placement Statistics and Company Profiles",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Placement stats and past company profiles are available on the CDC portal.\n2. Students can review them to prepare for specific companies.\n3. Updates about placement drives are shared via email.",
+    "tags": ["placements", "statistics", "company", "profiles"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+    "id": "vitap.placements.dream_offer_guidelines.v1",
+    "title": "Super Dream and Dream Offer Guidelines",
+    "category": "Placements",
+    "type": "info",
+    "text": "1. Super Dream: CTC ≥ 10 LPA; Dream: CTC 6–10 LPA.\n2. Students with strong skills and achievements may qualify for high-value offers.\n3. Students should showcase projects, internships, and skills.\n4. Regular workshops help students prepare for these offers.",
+    "tags": ["placements", "super dream", "dream offers", "guidelines"],
+    "source": "placements_raw",
+    "verified": false,
+    "effective_date": "2025-11-05"
+  },
+  {
+  "id": "vitap.placements.general_rules.v1",
+  "title": "General Placement Rules and Mail Communication",
+  "category": "Placements",
+  "type": "policy",
+  "text": "1. Placement rules and regulations may vary depending on the department and are communicated directly to students through official emails.\n2. Students must follow the specific instructions shared through placement circulars.\n3. All updates, deadlines, registration links, and company instructions are sent only via college email and must be checked regularly.",
+  "tags": ["placements", "rules", "mail", "policy"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.disciplinary_actions.v1",
+  "title": "Placement Disciplinary Actions for Cheating",
+  "category": "Placements",
+  "type": "policy",
+  "text": "1. Students caught cheating in important exams may face disciplinary action.\n2. Some companies may also take independent action if cheating is reported.\n3. Such incidents may affect placement eligibility, depending on the severity and official decisions.",
+  "tags": ["placements", "disciplinary", "cheating"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.pat_requirements.v1",
+  "title": "PAT Training Requirements",
+  "category": "Placements",
+  "type": "policy",
+  "text": "1. Students are expected to maintain around 80% attendance during PAT training to stay eligible.\n2. Completion of LitCoder exercises is mandatory before the end of the third year.\n3. Exact PAT training requirements may change each year and will be communicated through official emails.",
+  "tags": ["placements", "PAT", "training", "attendance", "litcoder"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.interview_etiquette.v1",
+  "title": "Interview Etiquette and Entry Requirements",
+  "category": "Placements",
+  "type": "info",
+  "text": "1. Students must dress formally for company interviews.\n2. Arriving on time is mandatory; late entry may lead to restriction from participating.\n3. Students must carry required documents including xerox copies and updated resumes.\n4. Without these items, entry to the interview venue may be denied.",
+  "tags": ["placements", "interviews", "etiquette", "documents"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.resume_integrity.v1",
+  "title": "Resume Integrity and Fake Information Warning",
+  "category": "Placements",
+  "type": "policy",
+  "text": "1. Students are strongly advised not to include any fake information in their resumes.\n2. Companies may verify details at any stage of the hiring process.\n3. Fake entries, once exposed, can lead to long-term consequences and may affect placement eligibility.",
+  "tags": ["placements", "resume", "integrity", "policy"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.backup_vs_2x_rule.v1",
+  "title": "Backup Offer Rule and 2X Eligibility Clarification",
+  "category": "Placements",
+  "type": "info",
+  "text": "1. Some companies are categorized as backup offers and do not follow the 2X rule.\n2. Example: If a backup company offers 4 LPA, students remain eligible for a 5.5 LPA company.\n3. For non-backup companies, the 2X rule applies; a 4 LPA offer restricts eligibility to companies offering 8 LPA or above.\n4. If a company offers 7.5 LPA, the student is not eligible for it under the 2X rule.",
+  "tags": ["placements", "backup rule", "2x", "offers"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.mail_timing_tips.v1",
+  "title": "Placement Mail Checking and Timing Guidelines",
+  "category": "Placements",
+  "type": "info",
+  "text": "1. Students must frequently check their college email for placement opportunities.\n2. Some registration links may open late at night, and missing them can result in losing a chance.\n3. Students are advised to turn on notifications and monitor emails consistently during placement season.",
+  "tags": ["placements", "email", "timing", "guidelines"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+,
+{
+  "id": "vitap.placements.offer_rejection_penalty.v1",
+  "title": "Offer Rejection Penalty Policy",
+  "category": "Placements",
+  "type": "policy",
+  "text": "1. Students who accept a company offer and later reject it to pursue higher studies or off-campus opportunities may face a penalty.\n2. The penalty includes completing one additional course in the following semester.\n3. Students are advised to accept offers only after careful consideration.",
+  "tags": ["placements", "penalty", "offer rejection"],
+  "source": "placements_added",
+  "effective_date": "2025-11-05",
+  "verified": false
+}
+
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "vitap.locations.central_library.v1",
+    "title": "Central Library",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Central Library is located at 2nd Floor, Academic Block 1 (AB1).\n2. Timings: 9:00 AM – 7:30 PM (Tuesday–Saturday), 9:00 AM – 5:00 PM (Sunday and Monday).\n3. Facilities include book borrowing, digital library, printing, and scanning.\n4. Student ID is mandatory for entry and borrowing books.",
+    "tags": ["library", "locations", "resources", "study"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.health_center.v1",
+    "title": "Health Center",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Health Center is situated at AB1 Ground Floor.\n2. Timings: 9:00 AM – 5:00 PM (weekdays).\n3. Services include consultations, first aid, health check-ups, and emergency care.\n4. For emergencies, contact the ambulance service or security. Emergency contact: +91 7997965623",
+    "tags": ["medical", "health", "locations", "emergency","hospital"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.sac_sports.v1",
+    "title": "Student Activity Center (SAC) and Sports Facilities",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Indoor sports facilities are located at the Student Activity Center (SAC).\n2. Facilities include gym, indoor sports courts (badminton, table tennis, chess, carroms, mountaineering), and a multipurpose hall.\n3. Open from 5:00 AM – 9:00 PM daily.\n4. Access requires student ID and proper sports attire.",
+    "tags": ["sac", "sports", "gym", "locations", "students"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.auditorium.v1",
+    "title": "Auditorium",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The main auditorium is located at 3rd Floor AB2.\n2. Used for cultural events, fests, and seminars.\n3. Seating capacity: 600.",
+    "tags": ["auditorium", "events", "locations"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.student_record_section.v1",
+    "title": "Student Record Section",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Student Record Section is located at 321 AB1.\n2. Handles student documentation and records.\n3. Operating hours: 9:00 AM – 6:00 PM (Tuesday–Saturday), closed on Sundays and Mondays.",
+    "tags": ["student records", "locations", "administration"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.bank_atm.v1",
+    "title": "Bank and ATM",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Indian Bank branch is located in the ground floor of AB2.\n2. ATMs are available 24/7 in CB, AB1, and AB2.\n3. Services include cash withdrawal, deposits, and balance inquiries.",
+    "tags": ["bank", "atm", "locations", "finance"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.food_street.v1",
+    "title": "Food Street",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Food Street is located at the backside of Central Block (CB).\n2. Operating hours: 9:00 AM – 8:30 PM daily.\n3. Offers vegetarian and non-vegetarian options.",
+    "tags": ["food street", "cafeteria", "food courts", "locations", "meals"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.post_office.v1",
+    "title": "Post-Office",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The campus post-office is located at the ground floor of AB1.\n2. Services include mail/parcel handling, courier services, and postal banking.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed Sundays and Mondays.",
+    "tags": ["post-office", "locations", "mail", "services"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.admissions.v1",
+    "title": "Admission and Counseling Office",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at the ground floor of AB1.\n2. Handles admissions, course selection, and academic counseling.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed Sundays.",
+    "tags": ["admission", "counseling", "locations", "students"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.xerox_stationery.v1",
+    "title": "Xerox and Stationery Services",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located on 4th floor of Central Block (CB).\n2. Offers photocopying, printing, and stationery supplies.\n3. Operating hours: 8:00 AM – 7:00 PM (Monday–Saturday), closed Sundays and Mondays.",
+    "tags": ["xerox", "stationery", "locations", "services"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.cdc.v1",
+    "title": "Career Development Center (CDC)",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at 3rd floor of Central Block (CB).\n2. Helps with placements, internships, and career counseling.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed Sundays and Mondays.",
+    "tags": ["career development", "locations", "students"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.it_services.v1",
+    "title": "IT Services and Support",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at the ground floor of AB2.\n2. Provides technical support, software installations, and network services.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed Sundays and Mondays.",
+    "tags": ["it support", "locations", "technology"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.newton_hall.v1",
+    "title": "Newton Hall",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at 4th floor of AB1.\n2. Used for guest lectures, workshops, and seminars.\n3. Equipped with modern audio-visual facilities.",
+    "tags": ["lecture hall", "locations", "study"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.einstein_hall.v1",
+    "title": "Einstein Hall",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at 1st floor of AB1.\n2. Used for meetings, presentations, and small group discussions.\n3. Includes projector and seating for 100+ people.",
+    "tags": ["conference room", "locations", "meetings"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.incubation_center.v1",
+    "title": "Incubation Center",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Located at 3rd floor of Central Block (CB).\n2. Provides ecosystem for startups to grow and validate ideas.\n3. Facilities include office space, mentorship, networking, and access to funding.\n4. Students with business ideas can visit the center or contact administration.",
+    "tags": ["incubation center", "locations", "meetings"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.controller_examination_office.v1",
+    "title": "Controller of Examination Office",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. The Controller of Examination Office is located at the 2nd floor of AB1.\n2. Responsible for overseeing all examination-related activities, including scheduling, conduct, and evaluation. And available for issuing the transcripts and certificates.\n3. Operating hours: 9:00 AM – 6:00 PM (Monday–Saturday), closed on Sundays and Mondays. \n4. Students can visit the office for any examination-related queries or assistance. For more information, contact the office directly.",
+    "tags": ["examination", "locations", "students"],
+    "source": "locations_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.department_labs.v1",
+    "title": "Department Laboratory Locations",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Laboratories for CSE, ECE, and other engineering departments are distributed across Central Block (CB), AB1, and AB2.\n2. Specialized Artificial Intelligence, Machine Learning, and Cyber Security labs are located on the 3rd floor of Central Block (CB), in the central section.\n3. ECE laboratories and project centers are located on the 2nd floor of AB1, including the facilities beside the 209 lab.\n4. Lab room numbers follow the standard format (e.g., 'CB-303' means Central Block, 3rd floor, room 303).\n5. Exact lab allotments vary by semester and course. Students should refer to their timetable or contact faculty for precise lab assignments.",
+    "tags": ["labs", "cse", "ece", "locations", "engineering", "cb", "ab1"],
+    "source": "locations_added",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.locations.room_numbering.v1",
+    "title": "Room Numbering System",
+    "category": "Locations",
+    "type": "info",
+    "text": "1. Room numbers follow a simple block-floor-room format.\n2. Example: 'CB-303' means Central Block (CB), 3rd Floor, Room 303.\n3. Example: 'AB1-G09' means Academic Block 1 (AB1), Ground Floor (G), Room 09.\n4. Floors are labeled as G (Ground), 1, 2, 3, etc.\n5. This format applies across major blocks like CB, AB1, AB2, and other academic buildings.\n6. Students can easily navigate using the block name and floor number on signboards placed throughout the campus.",
+    "tags": ["room numbering", "navigation", "locations", "blocks"],
+    "source": "locations_added",
+    "effective_date": "2025-11-05",
+    "verified": false
+  }
+
+]

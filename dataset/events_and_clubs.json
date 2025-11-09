@@ -1,0 +1,115 @@
+[
+  {
+    "id": "vitap.events.freshers_welcome.v1",
+    "title": "Freshers' Welcome Event",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Freshers' Welcome is organized at the beginning of the academic year.\n2. Includes cultural performances, ice-breaking sessions, and introduction to student clubs.\n3. Participation is open to all first-year students.\n4. Registration details are shared via email.",
+    "tags": ["freshers", "welcome", "cultural", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.events.vtapp.v1",
+    "title": "Technical Fest - VTAPP",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Technical Fest - VTAPP is the flagship technical festival of VIT-AP.\n2. Features hackathons, coding contests, paper presentations, workshops, and gaming competitions.\n3. Open to students from all programs.\n4. Registrations are handled through the VTAPP portal and announcements are made via email.",
+    "tags": ["techfest", "technical", "workshops", "competitions"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.events.djnight.v1",
+    "title": "DJ - Night",
+    "category": "Events",
+    "type": "info",
+    "text": "1. DJ - Night is held frequently as part of college celebrations.\n2. Includes dance, music, and entertainment performances.\n3. An open event for all students.\n4. Announcements regarding the event are made via email.",
+    "tags": ["dj-night", "performances", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.events.vitopia.v1",
+    "title": "VITOPIA - Sports and Cultural Fest",
+    "category": "Events",
+    "type": "info",
+    "text": "1. VITOPIA is the annual sports and cultural fest of VIT-AP.\n2. Features a variety of sports competitions, cultural performances, and fun activities.\n3. Includes Prime and Non-Prime events; open to all students and staff.\n4. Announcements regarding events and schedules are made via email.",
+    "tags": ["vitopia", "sports", "cultural", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.events.independence_day.v1",
+    "title": "Independence Day Celebration",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Independence Day is celebrated on August 15 with flag hoisting in front of Central Block (CB).\n2. Includes patriotic songs and speeches by guests.\n3. All students and staff are invited to participate.",
+    "tags": ["independence-day", "patriotic", "celebration", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.events.republic_day.v1",
+    "title": "Republic Day Celebration",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Republic Day is celebrated on January 26 with flag hoisting in front of Central Block (CB).\n2. Includes cultural performances and speeches by guests.\n3. All students and staff are invited to participate.",
+    "tags": ["republic-day", "patriotic", "celebration", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.clubs.activities_invitation.v1",
+    "title": "Invitation to Club Activities",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Various student clubs are active on campus including technical, cultural, and sports clubs.\n2. Clubs organize regular meetings, workshops, and events.\n3. Students are encouraged to join clubs that align with their interests.\n4. Information about club activities is shared via email and notice boards.\n5. Joining at least one club is mandatory to earn club credits through course registration.",
+    "tags": ["clubs", "activities", "student", "events"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+  {
+    "id": "vitap.clubs.membership_participation.v1",
+    "title": "Club Membership and Participation",
+    "category": "Clubs",
+    "type": "info",
+    "text": "1. Students can join clubs during the club registration period at the start of each semester.\n2. Membership is open to all students, though some clubs may have eligibility criteria.\n3. Active participation in club activities is encouraged for personal growth and networking.\n4. Club events are announced via email, social media, and notice boards.",
+    "tags": ["club", "membership", "participation", "students"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.events.sports_participation.v1",
+    "title": "Participation in Sports Events",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Students can participate in various sports events organized throughout the year.\n2. Events include inter-departmental, inter-college competitions, and intramural leagues.\n3. Details are shared via email by the sports club.\n4. Participation helps develop team-building and physical fitness.",
+    "tags": ["sports", "events", "participation", "students"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  },
+
+  {
+    "id": "vitap.events.cultural_festivals.v1",
+    "title": "Cultural Events and Festivals",
+    "category": "Events",
+    "type": "info",
+    "text": "1. Cultural events and festivals are organized to celebrate diversity and promote cultural exchange.\n2. Events include dance, music, drama, and art exhibitions.\n3. Students are encouraged to participate and showcase talents.\n4. Announcements are made via email and notice boards.",
+    "tags": ["cultural", "events", "festivals", "students"],
+    "source": "events_raw",
+    "effective_date": "2025-11-05",
+    "verified": false
+  }
+]
